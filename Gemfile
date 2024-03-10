@@ -25,6 +25,7 @@ gem "jbuilder"
 gem "mongoid"
 gem 'bootstrap', '~> 5.2.2'
 gem 'webpacker'
+gem 'font-awesome-sass'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
