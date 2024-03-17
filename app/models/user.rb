@@ -10,4 +10,6 @@ class User
   field :dob, type: DateTime
   field :description, type: String
   field :motto, type: String
+
+  embeds_many :experience
 end
